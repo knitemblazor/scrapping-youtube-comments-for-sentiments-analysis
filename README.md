@@ -7,7 +7,8 @@ the way to get around with it is by doing more preprocessing and obtaining bette
 ### complete_nlp_handling_food_comments_dataset.ipynb
 i have used a multi layer perceptron as a classifier and includes the crawing code in one of the cells .It includes all the preprocessing steps involved
 
-### tokenizer  
+### tokenizer[loss 70%,acc69%conv27%.ipynb
+  
 contains a python notebook that has the info on implementing a cnn and an mlp and the accuracy obtained
 
 users are requested to run the script on google colab or with a pc with  a min of 8Gb RAM
