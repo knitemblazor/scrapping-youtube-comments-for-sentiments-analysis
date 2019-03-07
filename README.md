@@ -9,6 +9,6 @@ i have used a multi layer perceptron as a classifier and includes the crawing co
 
 ### tokenizer[loss 70%,acc69%conv27%].ipynb
   
-contains a python notebook that has the info on implementing a cnn and an mlp and the accuracy obtained
+Is a python notebook that has the info on implementing a cnn and an mlp and the accuracy obtained
 
 users are requested to run the script on google colab or with a pc with  a min of 8Gb RAM
